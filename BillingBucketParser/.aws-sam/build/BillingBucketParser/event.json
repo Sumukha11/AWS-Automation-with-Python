@@ -1,0 +1,14 @@
+{
+"Records":[
+    {
+        "s3":{
+            "bucket":{
+                "name":"sumukha-billing-x"
+            },
+            "object":{
+                "key":"billing_data_bakery_may_2023.csv"
+            }
+        }
+    }
+]
+}
